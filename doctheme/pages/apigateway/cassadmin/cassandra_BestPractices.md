@@ -7,6 +7,9 @@ permalink: cassandra_BestPractices.html
 folder: apigateway
 ---
 
+## New section
+The purpose of this section is to test the edit by reader process.
+
 # <span class="api_gateway_variablescassandra">Apache Cassandra</span> best practices
 
 Follow the best practices in this section to achieve a stable
